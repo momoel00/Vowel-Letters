@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-shadow: none;
+}
+
+body{
+  margin: 50px;
+  width: auto;
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  background-color: beige;
+
+}
+
+#btn{
+  color: white;
+  font-weight: bold;
+
+  background-color: black;
+  padding: 3px 0;
+}
+
+#words{
+  padding: 8px 0;
+}
+
+/* Momo Itdeve */
